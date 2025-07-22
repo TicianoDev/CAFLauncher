@@ -39,7 +39,7 @@ Si el navegador te bloquea la descarga, haz clic en `Conservar` o `Guardar de to
 
 ## 🚀 Instalación y Uso
 
-1.  Ve a la sección de **[Releases]([[URL_A_LA_PAGINA_DE_RELEASES_DE_TU_REPO](https://github.com/TicianoDev/CAFLauncher/releases/tag/1.0.0)]())** en este repositorio.
+1.  Ve a la sección de **[Releases]([[URL_A_LA_PAGINA_DE_RELEASES_DE_TU_REPO](https://github.com/TicianoDev/CAFLauncher/releases/tag/1.0.0)])** en este repositorio.
 2.  Descarga el archivo `ChaosAtFazbearsLauncher.exe` de la última versión disponible.
 3.  Ejecuta el archivo y sigue las instrucciones en pantalla. ¡No requiere instalación!
 
